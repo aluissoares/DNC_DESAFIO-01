@@ -9,13 +9,13 @@ Neste Projeto, o objetivo foi construir um Dashboard no Power BI para um e-comme
 Foi utilizado duas bases de dados, uma base com os dados das vendas e outra base com as informações dos clientes.
 Com isso, foi criado dois painéis de dashboard para analisar e visualizar as métricas.
 
-### Para o dashboard de vendas foram criadas as seguintes métricas:
+## Para o dashboard de vendas foram criadas as seguintes métricas:
   - FILTROS: "Bandeira", "Canal de Venda", "Nome do Departamento" e "Estado";
   - CARDS: "Quantidade de Vendas", "Valor Total de Vendas Sem Frete", "Valor Total de Vendas Com Frete";
   - GRÁGICOS DE LINHAS: "Contagem de Vendas Por Mês" e "Valor Total de Vendas Por Mês";
   - GRÁFICOS DE BARRAS: "Quantidade de Vendas por Categoria" e "Valor Total de Vendas por Categoria".
 
-### Para o dashboard de perfil dos clientes foram criadas as seguintes métricas:
+## Para o dashboard de perfil dos clientes foram criadas as seguintes métricas:
   - FILTROS: "Estado de Nascimento", "Faixa de Rendas" e "Idade";
   - CARDS: "Quantidade de Clientes" e "Média de Renda dos Clientes";
   - GRÁGICO DE LINHAS: "Distribuição de Idade dos Clientes";
