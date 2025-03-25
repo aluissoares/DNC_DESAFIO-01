@@ -1,7 +1,11 @@
-# ESCOLA DNC - DESAFIO 1
+# ESCOLA DNC - DESAFIO 1 - Prevendo os resultados de um e-commerce utilizando o Power BI
+Este projeto foi desenvolvido como parte do curso de Cientista de Dados da Escola DNC. O objetivo é aplicar os conhecimentos adquiridos em Excel e Power BI para construir um modelo de Regressão Linear capaz de prever os resultados de faturamento de um e-commerce.
 
-Prevendo os resultados de um e-commerce utilizando o Power BI.
-Neste desafio, o objetivo foi construir um painel gerencial para um e-commerce que almeja estudar as suas vendas e assim, traçar a melhor estratégia para alavancar os seus resultados.
+## Contexto do Projeto
+Um e-commerce almeja estudar as suas vendas e assim, traçar a melhor estratégia para alavancar seus resultados.
+
+## Objetivo
+Neste Projeto, o objetivo foi construir um Dashboard no Power BI para um e-commerce que deseja analisar e alavancar as suas vendas.
 Foi utilizado duas bases de dados, uma base com os dados das vendas e outra base com as informações dos clientes.
 Com isso, foi criado dois painéis de dashboard para analisar e visualizar as métricas.
 
