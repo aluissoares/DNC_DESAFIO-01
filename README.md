@@ -1,8 +1,8 @@
 # DNC_DESAFIO-01
 Prevendo os resultados de um e-commerce utilizando o Power BI
 Neste desafio, o objetivo foi construir um painel gerencial para um e-commerce que almeja estudar as suas vendas e assim, traçar a melhor estratégia para alavancar os seus resultados.
-Foi utilizado duas bases de dados, uma com dados das vendas e outra com informações dos clientes.
-Com isso, foi necessário criar duas páginas de dashboard para analisar e visualizar as métricas.
+Foi utilizado duas bases de dados, uma base com os dados das vendas e outra base com as informações dos clientes.
+Com isso, foi criado dois painéis de dashboard para analisar e visualizar as métricas.
 Para o dashboard de vendas foram criadas as seguintes métricas:
   - FILTROS: "Bandeira", "Canal de Venda", "Nome do Departamento" e "Estado";
   - CARDS: "Quantidade de Vendas", "Valor Total de Vendas Sem Frete", "Valor Total de Vendas Com Frete";
