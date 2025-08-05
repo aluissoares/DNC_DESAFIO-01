@@ -1,6 +1,7 @@
 # 📊 Análise de E-commerce com Power BI
 
 Este projeto foi desenvolvido como parte de um desafio prático da Formação em Ciência de Dados da Escola DNC.
+
 O objetivo foi construir um painel interativo no Power BI que ajudasse na **tomada de decisão de um e-commerce**, analisando métricas como receita, lucro, regiões de maior faturamento, e desempenho de produtos.
 
 ---
