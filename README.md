@@ -1,3 +1,5 @@
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # 📊 Análise de E-commerce com Power BI
 
 Este projeto foi desenvolvido como parte de um desafio prático da Formação em Ciência de Dados da Escola DNC.
