@@ -19,6 +19,9 @@ O painel busca responder às seguintes perguntas:
 
 ## 📷 Visual do Dashboard
 
+<img width="2767" height="1600" alt="analise-bi-e-commerce_page_1" src="https://github.com/user-attachments/assets/fac75dfa-88aa-4ce2-a535-f2e23c40fd2b" />
+<img width="2767" height="1600" alt="analise-bi-e-commerce_page_2" src="https://github.com/user-attachments/assets/7406b4f3-dbfd-4741-a356-cf0f8ea6b6f1" />
+
 *(Adicione aqui uma imagem ou print do seu dashboard em PNG/JPG)*
 
 ```md
